@@ -1,0 +1,27 @@
+{
+  "GameSettings": {
+    "LoginAddr": "51.79.130.210",
+    "LoginPort": 10001,
+    "ZoneAddr": "51.79.130.210",
+    "ZonePort": 27780,
+    "Nation": 6
+  },
+  "LauncherSettings": {
+    "ManifestUrl": "",
+    "FilesBaseUrl": "http://mdev.my.id/updates/client/",
+    "WebsiteUrl": "",
+    "DiscordUrl": "",
+    "NyxReferenceUrl": "https://nyx-dev.my.id",
+    "ApiUrl": "",
+    "PatchDirectories": ["."],
+    "ExcludeItems": [
+
+    ]
+  },
+  "UpdaterSettings": {
+    "ManifestUrl": "",
+    "FilesBaseUrl": "http://mdev.my.id/updates/client/",
+    "MainLauncherExe": "Nyx.Launcher.exe"
+  },
+  "AutoUpdate": true
+}

@@ -8,8 +8,8 @@
   },
   "LauncherSettings": {
     "ManifestUrl": "",
-    "FilesBaseUrl": "http://mdev.my.id/updates/client/",
-    "WebsiteUrl": "https://rf-funserver.my.id/",
+    "FilesBaseUrl": "http://mdev.my.id/updates/client",
+    "WebsiteUrl": "https://rf-funserver.my.id",
     "DiscordUrl": "https://discord.gg/qFsPTq2Nwr",
     "NyxReferenceUrl": "https://nyx-dev.my.id",
     "ApiUrl": "https://mdev.my.id/api/articles?limit=10",
@@ -20,7 +20,7 @@
   },
   "UpdaterSettings": {
     "ManifestUrl": "",
-    "FilesBaseUrl": "http://mdev.my.id/updates/client/",
+    "FilesBaseUrl": "http://mdev.my.id/updates/client",
     "MainLauncherExe": "Nyx.Launcher.exe"
   },
   "AutoUpdate": true

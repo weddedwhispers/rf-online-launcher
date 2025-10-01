@@ -9,10 +9,10 @@
   "LauncherSettings": {
     "ManifestUrl": "",
     "FilesBaseUrl": "http://mdev.my.id/updates/client/",
-    "WebsiteUrl": "",
-    "DiscordUrl": "",
+    "WebsiteUrl": "https://rf-funserver.my.id/",
+    "DiscordUrl": "https://discord.gg/qFsPTq2Nwr",
     "NyxReferenceUrl": "https://nyx-dev.my.id",
-    "ApiUrl": "",
+    "ApiUrl": "https://mdev.my.id/api/articles?limit=10",
     "PatchDirectories": ["."],
     "ExcludeItems": [
 

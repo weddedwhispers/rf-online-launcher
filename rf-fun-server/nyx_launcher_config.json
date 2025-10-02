@@ -14,6 +14,7 @@
     "NyxReferenceUrl": "https://nyx-dev.my.id",
     "ApiUrl": "https://mdev.my.id/api/articles?limit=10",
     "PatchDirectories": ["."],
+    "SkipFolders": [ "updates", "backup", "old" ],
     "ExcludeItems": [
 
     ]

@@ -1,0 +1,882 @@
+[
+    {
+        "Path": "d3d9.dll",
+        "Size": 20838416,
+        "Hash": "ebbaf2cea1abaf75c17d3c6b2092c765"
+    },
+    {
+        "Path": "discord_game_sdk.dll",
+        "Size": 2937856,
+        "Hash": "71d18d7510fad32a2ac4b038fcdd56e3"
+    },
+    {
+        "Path": "fix_client.bat",
+        "Size": 457,
+        "Hash": "3ffa0c2dab6476bb6b6cd2b30c864ba6"
+    },
+    {
+        "Path": "RF_Online.bin",
+        "Size": 8274432,
+        "Hash": "e6c5a3be726afec61c896cf27a2c5999"
+    },
+    {
+        "Path": "sirin-launcher.dll",
+        "Size": 4402688,
+        "Hash": "24ca2d87cb7dbee04e4de60b2e8ee685"
+    },
+    {
+        "Path": "Character/Npc/Tex/BP_ADS01.dds",
+        "Size": 2796344,
+        "Hash": "4d24ec7d667cb852d441a0600a8645d2"
+    },
+    {
+        "Path": "DataTable/CashShop.edf",
+        "Size": 35561,
+        "Hash": "fd3a482222fe798c501501888d8cd439"
+    },
+    {
+        "Path": "DataTable/Character.edf",
+        "Size": 1789973,
+        "Hash": "fb6dc103b89d53b28e1ad361f78d8fb6"
+    },
+    {
+        "Path": "DataTable/item.edf",
+        "Size": 19559759,
+        "Hash": "26f02c02cfeb96f9f157ce3be7567f6e"
+    },
+    {
+        "Path": "DataTable/ItemCash.edf",
+        "Size": 34089,
+        "Hash": "82e53283ff49af1cf448b5b58541e53e"
+    },
+    {
+        "Path": "DataTable/ItemCombine.edf",
+        "Size": 20725689,
+        "Hash": "ac69dc0078a6a38390ee0c3b3da5935d"
+    },
+    {
+        "Path": "DataTable/ItemPremium.edf",
+        "Size": 309601,
+        "Hash": "af9c1f37958b9c8a8451d1891194bb3f"
+    },
+    {
+        "Path": "DataTable/ItemSetEffect.edf",
+        "Size": 236169,
+        "Hash": "dddee4980fc790503aee82f96d17b290"
+    },
+    {
+        "Path": "DataTable/ItemTimer.edf",
+        "Size": 32073,
+        "Hash": "a8be587f2c2f49db53249af8afa23154"
+    },
+    {
+        "Path": "DataTable/Map.edf",
+        "Size": 356613,
+        "Hash": "efd137e2b26188a96905d93bd42744e8"
+    },
+    {
+        "Path": "DataTable/PcRoom.edf",
+        "Size": 421857,
+        "Hash": "dc9947c5e4f9c9dc939d5ae7590f52ae"
+    },
+    {
+        "Path": "DataTable/Player.edf",
+        "Size": 1141,
+        "Hash": "c04f7c3ff1e1fdea8201c587782da9f6"
+    },
+    {
+        "Path": "DataTable/PlayerCharacter.edf",
+        "Size": 657,
+        "Hash": "b06460bf16992f7e94c94736e178741d"
+    },
+    {
+        "Path": "DataTable/Quest.edf",
+        "Size": 1437597,
+        "Hash": "91ca19b55013211df219577fcdec5424"
+    },
+    {
+        "Path": "DataTable/Resource.edf",
+        "Size": 9688397,
+        "Hash": "a3abd4a150846a58e73227856feab8b4"
+    },
+    {
+        "Path": "DataTable/SkillForce.edf",
+        "Size": 2298697,
+        "Hash": "db2f5d5d169e0ccb1db40a321d21a62f"
+    },
+    {
+        "Path": "DataTable/Store.edf",
+        "Size": 559257,
+        "Hash": "bb6c11f4779af78afbcafe209ee332ea"
+    },
+    {
+        "Path": "DataTable/TimerItem.edf",
+        "Size": 28185,
+        "Hash": "80c1c46f10802a0ac88083043044ea9f"
+    },
+    {
+        "Path": "DataTable/en-ph/acu.dic",
+        "Size": 6046,
+        "Hash": "4423a80a1bdc693194e0c9b877c481c5"
+    },
+    {
+        "Path": "DataTable/en-ph/NDCharacter.edf",
+        "Size": 382881,
+        "Hash": "3387704aee84258b6e2623a0cd4e7d82"
+    },
+    {
+        "Path": "DataTable/en-ph/NDEventShip.edf",
+        "Size": 12486,
+        "Hash": "d1647aedba0fefd54b282e758ff439fb"
+    },
+    {
+        "Path": "DataTable/en-ph/NDItem.edf",
+        "Size": 9591323,
+        "Hash": "7433c9a119dbd8cd5651b2d211360bf0"
+    },
+    {
+        "Path": "DataTable/en-ph/NDItemCash.edf",
+        "Size": 2409,
+        "Hash": "f455d498e5c8ef57600998ec0237b8b3"
+    },
+    {
+        "Path": "DataTable/en-ph/NDLanguage.edf",
+        "Size": 267146,
+        "Hash": "902fa34262acb347ebc53cb507363d48"
+    },
+    {
+        "Path": "DataTable/en-ph/NDMap.edf",
+        "Size": 53320,
+        "Hash": "43f0dd8c449d82117ce6ade2b0a3b3b9"
+    },
+    {
+        "Path": "DataTable/en-ph/NDMsgEvent.edf",
+        "Size": 7977,
+        "Hash": "57fafd79f1e04dbe3e4b86ca1617bdc6"
+    },
+    {
+        "Path": "DataTable/en-ph/NDMsgMonster.edf",
+        "Size": 73030,
+        "Hash": "6f28ff993f3663206a573a613f833f7b"
+    },
+    {
+        "Path": "DataTable/en-ph/NDQuest.edf",
+        "Size": 1045938,
+        "Hash": "112a4c3bdd1fab859aae6c222f50e204"
+    },
+    {
+        "Path": "DataTable/en-ph/NDSkillForce.edf",
+        "Size": 1117705,
+        "Hash": "d91f1ed9bc83ad7ed4915e93f32207c2"
+    },
+    {
+        "Path": "DataTable/en-ph/NDStore.edf",
+        "Size": 70178,
+        "Hash": "1cf7f3caac7b8eb049336ae2bb856b8f"
+    },
+    {
+        "Path": "DataTable/en-ph/PcRoom.edf",
+        "Size": 274977,
+        "Hash": "712cd2325702f1d079fd1a489632f1be"
+    },
+    {
+        "Path": "Effect/ReadMe.txt",
+        "Size": 83,
+        "Hash": "482a181c4c7f1d4bfc4f23ceba6e9bc7"
+    },
+    {
+        "Path": "Effect/item/rift_exit_mag.spt",
+        "Size": 90,
+        "Hash": "fbc44a432c228ea2cb435867e1dba572"
+    },
+    {
+        "Path": "Snd/waveList.spt",
+        "Size": 525836,
+        "Hash": "13e291dbadc1bb4517d1d0b2c4b03373"
+    },
+    {
+        "Path": "System/010(1).TTF",
+        "Size": 632660,
+        "Hash": "ec3e979226fca4ed9b431b12f68fc1dd"
+    },
+    {
+        "Path": "System/010.TTF",
+        "Size": 632660,
+        "Hash": "ec3e979226fca4ed9b431b12f68fc1dd"
+    },
+    {
+        "Path": "System/ccrlogo.dds",
+        "Size": 1048704,
+        "Hash": "f93bc46c28b9ab64a0edc428bcf8b6a9"
+    },
+    {
+        "Path": "System/ChatCommand.ini",
+        "Size": 2963,
+        "Hash": "b91937203805bb693c78efa2f9d0a41b"
+    },
+    {
+        "Path": "System/console.jpg",
+        "Size": 19858,
+        "Hash": "a5825e1afa1505cc87ef6e53b4fe592c"
+    },
+    {
+        "Path": "System/default.cfg",
+        "Size": 131,
+        "Hash": "99268e1ba0300a448dd2e054295deaca"
+    },
+    {
+        "Path": "System/DefaultSet.tmp",
+        "Size": 93,
+        "Hash": "3c319eb5613b6413a7906e8b9fad434c"
+    },
+    {
+        "Path": "System/DefaultSet.tmt",
+        "Size": 55,
+        "Hash": "a56b29af8414fee90c3668733324876d"
+    },
+    {
+        "Path": "System/DeleteFileList.txt",
+        "Size": 240,
+        "Hash": "5ee1cec46b32773ffe0b93c5974dd4cc"
+    },
+    {
+        "Path": "System/FileData.z",
+        "Size": 123225,
+        "Hash": "cd7831cf4b01278583a0c7688d06e41a"
+    },
+    {
+        "Path": "System/font.ini",
+        "Size": 31,
+        "Hash": "24d411da937751a3ed5292857757bc2c"
+    },
+    {
+        "Path": "System/idll.rdt",
+        "Size": 535,
+        "Hash": "aaa333bcd8d7feb461824dc35675fa33"
+    },
+    {
+        "Path": "System/rfoemf.dat",
+        "Size": 239440,
+        "Hash": "13d081c58e90c363d9240cb052a29d68"
+    },
+    {
+        "Path": "System/staff.txt",
+        "Size": 15879,
+        "Hash": "61bcdf867648183aa74c3040bcbaf401"
+    },
+    {
+        "Path": "System/sun.dds",
+        "Size": 349652,
+        "Hash": "dc950c90bae89444e44bd985d5bae94f"
+    },
+    {
+        "Path": "System/titlelogo.png",
+        "Size": 217662,
+        "Hash": "b79f588a5066a72c52f780869e17e8c5"
+    },
+    {
+        "Path": "System/titlelogo.tga",
+        "Size": 5440018,
+        "Hash": "00b5f0171d667e5a72fb0767ab8358e6"
+    },
+    {
+        "Path": "System/uifont.ttf",
+        "Size": 1884380,
+        "Hash": "4c69118744ea89dab844e5305fecca4f"
+    },
+    {
+        "Path": "System/~~~ FileData.z",
+        "Size": 88159,
+        "Hash": "9ec7e83696b3543a73e326f01faa4f70"
+    },
+    {
+        "Path": "System/install/86D782E/bananarfolig.msi",
+        "Size": 4974080,
+        "Hash": "1d74c36f56ae8022d7e2343b589eeaad"
+    },
+    {
+        "Path": "System/Launcher/Config/config.bin",
+        "Size": 8000,
+        "Hash": "9d37932ec71632321558cdf5d1847098"
+    },
+    {
+        "Path": "System/Launcher/Config/Config.ini",
+        "Size": 116,
+        "Hash": "c3093729e305e426ffb62a72bfa4ea74"
+    },
+    {
+        "Path": "System/Launcher/Config/modules.bin",
+        "Size": 8440,
+        "Hash": "421116a5db77d9b375e92ce5dcf20340"
+    },
+    {
+        "Path": "System/Launcher/Config/version.json",
+        "Size": 33,
+        "Hash": "f160a63b097ac45789a1e51163b91905"
+    },
+    {
+        "Path": "System/Launcher/Misc/notice.json",
+        "Size": 1177,
+        "Hash": "1afa62daa1fdef99762c2acf3b67162a"
+    },
+    {
+        "Path": "System/Launcher/Music/1_RF_Online_ONE.mp3",
+        "Size": 5778715,
+        "Hash": "d97de5e90488a66a05715bcbbe263b7d"
+    },
+    {
+        "Path": "System/Launcher/Resources/background.bmp",
+        "Size": 1591110,
+        "Hash": "3d3b9f1485d6e98b464ccc7431a304b5"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_cancel.bmp",
+        "Size": 5096,
+        "Hash": "618fe9b569a2c5814ac12389cb54aa0a"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_cancel_hover.bmp",
+        "Size": 5096,
+        "Hash": "80cf6eeae058c36358e731fba629e3a9"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_close.bmp",
+        "Size": 700,
+        "Hash": "fa8727a5bde15ca01dc0aa0a02e74247"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_close_hover.bmp",
+        "Size": 1856,
+        "Hash": "f78ed74f8244f42451b919d8bbf63f62"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_disable2fa.bmp",
+        "Size": 8056,
+        "Hash": "7742a4f213a78c52d8b5111ea4a03248"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_disable2fa_hover.bmp",
+        "Size": 8056,
+        "Hash": "4c89f27d5ed620295fe58422d7c77d12"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_discord.bmp",
+        "Size": 6776,
+        "Hash": "ee04aaea05c1a8c4bba004d35c4958d6"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_discord_hover.bmp",
+        "Size": 6776,
+        "Hash": "4f701142bd67e7c3fd37a56c6c87bae7"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_enable2fa.bmp",
+        "Size": 8056,
+        "Hash": "a0ecd128cc8cb04deb87d78c152e102c"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_enable2fa_hover.bmp",
+        "Size": 8056,
+        "Hash": "0b759909f1bcc5b29fa2bfd707a877ac"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_facebook.bmp",
+        "Size": 6776,
+        "Hash": "92a41beed7567728619a089b0d41cbe8"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_facebook_hover.bmp",
+        "Size": 6776,
+        "Hash": "d73c4503abe6d17c9117e0b2bd883a61"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_gameguide.bmp",
+        "Size": 6776,
+        "Hash": "36305dbe1d35ed31a7fd601c1f6658eb"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_gameguide_hover.bmp",
+        "Size": 6776,
+        "Hash": "6016be1d3303ac29390bd76e447e8b79"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_join.bmp",
+        "Size": 5096,
+        "Hash": "441e582d1c993f0bd1d45596f891ecf4"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_join_hover.bmp",
+        "Size": 5096,
+        "Hash": "48ae77ba5f6b09e360e14f1bbed17e34"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_login.bmp",
+        "Size": 13508,
+        "Hash": "cfcd838917ea8134c57c52b9372133b9"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_login_hover.bmp",
+        "Size": 13508,
+        "Hash": "46967b8d22da91c1f28653d23af75fb3"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_logout.bmp",
+        "Size": 8056,
+        "Hash": "b8a49a8f83d45fde0c8eb97669df758f"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_logout_hover.bmp",
+        "Size": 8056,
+        "Hash": "4a6303bac548bb223d71428cb0513433"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_minimize.bmp",
+        "Size": 120,
+        "Hash": "d17c4c549acdcb9d56f7cc371f269f76"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_minimize_hover.bmp",
+        "Size": 120,
+        "Hash": "b71f94f847c32bc29b48eea3efc5e3cb"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_myaccount.bmp",
+        "Size": 5096,
+        "Hash": "5fc0159e4d92f9a73d8cfd44ed905c20"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_myaccount_hover.bmp",
+        "Size": 5096,
+        "Hash": "d7120f1c5b80f74b36567f2d6b03e51e"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_playnow.bmp",
+        "Size": 8056,
+        "Hash": "ca1a7dff0cafca0022c7fd2c96c5c419"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_playnow_hover.bmp",
+        "Size": 8056,
+        "Hash": "2eebfe7c96af64162548def862e1daae"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_resetpassword.bmp",
+        "Size": 5096,
+        "Hash": "24608ee5ac07fda36c49db24a94845e7"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_resetpassword_hover.bmp",
+        "Size": 5096,
+        "Hash": "4f968379f9ec7d99551db37b31d43bdf"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_restoreclient.bmp",
+        "Size": 6296,
+        "Hash": "80fbb91fcf7525d5374896f2e370249c"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_restoreclient_hover.bmp",
+        "Size": 6296,
+        "Hash": "11919fa6b59b360082d07f514b090afe"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_save.bmp",
+        "Size": 3896,
+        "Hash": "27a027ad67192d376dea08fe03d2da1c"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_saveaccount.bmp",
+        "Size": 5096,
+        "Hash": "966f35c658d6fb3d8f835bfed1db867c"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_saveaccount_hover.bmp",
+        "Size": 5096,
+        "Hash": "8433ca3102b1c66fa9f2d8b03661e34c"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_savepassword.bmp",
+        "Size": 8056,
+        "Hash": "387b417b467eb8123862d20cb0cb1873"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_savepassword_hover.bmp",
+        "Size": 8056,
+        "Hash": "c042d314be3695bf39b3bc13691826d1"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_save_hover.bmp",
+        "Size": 3896,
+        "Hash": "082162f89dcd19d673263a06561119ce"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_selectserver.bmp",
+        "Size": 6056,
+        "Hash": "11c7d147eac642df697cab423e0e9258"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_selectserver_hover.bmp",
+        "Size": 6056,
+        "Hash": "a4a5a55571b5794bcdd950e3961fd52c"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_setup.bmp",
+        "Size": 7576,
+        "Hash": "5ab7c8990295d0e6c006f20878835bb4"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_setup_hover.bmp",
+        "Size": 7576,
+        "Hash": "0ebe9621b0f44a19d70858ab4b4e9022"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_submit2facode.bmp",
+        "Size": 8056,
+        "Hash": "62f6e55a6b7c86b06f0dd1e759d7a661"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_submit2facode_hover.bmp",
+        "Size": 8056,
+        "Hash": "81c29b4e66ac367f0895ee38a431657d"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_toggle2fa.bmp",
+        "Size": 8056,
+        "Hash": "4fa3685a39114a6b34429ccd54715ddf"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_toggle2fa_hover.bmp",
+        "Size": 8056,
+        "Hash": "e6c0cd9bd3bc1d8b18e7b14b609f8999"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_untrustalldevices.bmp",
+        "Size": 8056,
+        "Hash": "8b6a2c9586845808b3a3821eb80f570d"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_untrustalldevices_hover.bmp",
+        "Size": 8056,
+        "Hash": "af24e4bfb12bc325dd72772ed319b7a6"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_untrustthisdevice.bmp",
+        "Size": 8056,
+        "Hash": "a15ead3421199b39a7a9886ec9cb0504"
+    },
+    {
+        "Path": "System/Launcher/Resources/btn_untrustthisdevice_hover.bmp",
+        "Size": 8056,
+        "Hash": "9554d100586b011d2df1eeb17821efb1"
+    },
+    {
+        "Path": "System/Launcher/Resources/gamma1.bmp",
+        "Size": 28406,
+        "Hash": "ac757604c27f474db1fee0ae515881c9"
+    },
+    {
+        "Path": "System/Launcher/Resources/gamma2.bmp",
+        "Size": 28406,
+        "Hash": "f55d20f9876a085340ba11c332fe023c"
+    },
+    {
+        "Path": "System/Launcher/Resources/gamma3.bmp",
+        "Size": 28406,
+        "Hash": "565a179b1da5d44de4266bdf35158ac5"
+    },
+    {
+        "Path": "System/Launcher/Resources/gamma4.bmp",
+        "Size": 28406,
+        "Hash": "e0f03a27dbfd0c01cad92cb7a4818a88"
+    },
+    {
+        "Path": "System/Launcher/Resources/gamma5.bmp",
+        "Size": 28406,
+        "Hash": "793455a16dcd7576d8413b094e80f186"
+    },
+    {
+        "Path": "System/Launcher/Resources/gamma6.bmp",
+        "Size": 28406,
+        "Hash": "378945892f11fb1a5134beaf7b41d79b"
+    },
+    {
+        "Path": "System/Launcher/Resources/msg_background.bmp",
+        "Size": 71054,
+        "Hash": "0eeff881652b7b2b499b8d2eac9f4b2d"
+    },
+    {
+        "Path": "System/Launcher/Resources/notice_form.bmp",
+        "Size": 219992,
+        "Hash": "6643a72e32053afc7f70c25b8b27a5b9"
+    },
+    {
+        "Path": "System/Launcher/Resources/notice_listview.bmp",
+        "Size": 122174,
+        "Hash": "21f51c488b8a9c63cf38513a97b6e69a"
+    },
+    {
+        "Path": "System/Launcher/Resources/option_base.bmp",
+        "Size": 464312,
+        "Hash": "415d35f359a88c274ad1ffb4588496bb"
+    },
+    {
+        "Path": "System/Launcher/Resources/password_change_form.bmp",
+        "Size": 104334,
+        "Hash": "75a021664654eb3c4d89fa0655f6f337"
+    },
+    {
+        "Path": "System/Launcher/Resources/register_form.bmp",
+        "Size": 464312,
+        "Hash": "241e929a7ed000173d0f78c0935fc619"
+    },
+    {
+        "Path": "System/Launcher/Resources/reset_password_form.bmp",
+        "Size": 237054,
+        "Hash": "3e7fb476f5588ab93330ef080dbae6f1"
+    },
+    {
+        "Path": "System/Launcher/Resources/serverbanner.gif",
+        "Size": 355544,
+        "Hash": "41aa6c51e58be9d846168c10ef76df77"
+    },
+    {
+        "Path": "System/Launcher/Resources/serverselect_bg.bmp",
+        "Size": 378176,
+        "Hash": "b80c3fcab30d7d1a1700bad65019e69a"
+    },
+    {
+        "Path": "System/Launcher/Resources/server_list.bmp",
+        "Size": 316056,
+        "Hash": "95aacad4477923f39c37be663268451f"
+    },
+    {
+        "Path": "System/Launcher/Resources/twofa_form.bmp",
+        "Size": 237054,
+        "Hash": "3e7fb476f5588ab93330ef080dbae6f1"
+    },
+    {
+        "Path": "System/Launcher/Resources/user_loggedin_form.bmp",
+        "Size": 464312,
+        "Hash": "241e929a7ed000173d0f78c0935fc619"
+    },
+    {
+        "Path": "System/Launcher/Resources/world_list.bmp",
+        "Size": 181334,
+        "Hash": "f93dd2a1f097ea55f0c10254398b1d8c"
+    },
+    {
+        "Path": "System/Launcher/Resources/world_status.bmp",
+        "Size": 217464,
+        "Hash": "899a1e33926e1460f6a26dda9fc0b30a"
+    },
+    {
+        "Path": "System/Launcher/Sliders/1.jpg",
+        "Size": 370982,
+        "Hash": "dc6d1d0f207c0169013b384d4d8c85b0"
+    },
+    {
+        "Path": "System/mouse/attack.ani",
+        "Size": 15862,
+        "Hash": "0a545e3f05a96500ee2524a80c20baca"
+    },
+    {
+        "Path": "System/mouse/basic.ani",
+        "Size": 15862,
+        "Hash": "2924fffe4c8b69787467fbff59f60522"
+    },
+    {
+        "Path": "System/mouse/force.ani",
+        "Size": 18116,
+        "Hash": "36cd2aa4c50b9f301e023299f4c0868d"
+    },
+    {
+        "Path": "System/mouse/get.ani",
+        "Size": 22624,
+        "Hash": "8114373c1679f4914dad746b2f146c72"
+    },
+    {
+        "Path": "System/mouse/NPC.ani",
+        "Size": 13608,
+        "Hash": "4a69ba4eb20425dfb5cd45b33ad3cbce"
+    },
+    {
+        "Path": "System/mouse/samerace.ani",
+        "Size": 15862,
+        "Hash": "bff97a359793e49b7cd3d6a22e8c37e4"
+    },
+    {
+        "Path": "System/mouse/skill.ani",
+        "Size": 11354,
+        "Hash": "fe1def72e16bb3753526900487179ddf"
+    },
+    {
+        "Path": "System/Shader/BlurBlit.nvp",
+        "Size": 680,
+        "Hash": "8c41a5e9e5a1bb6e4fdfdcb3bc8d20a8"
+    },
+    {
+        "Path": "System/Shader/BlurBlit.pso",
+        "Size": 300,
+        "Hash": "a9b3b9b50a77cddaa47fb75e35896885"
+    },
+    {
+        "Path": "System/Shader/FilterBlit.nvv",
+        "Size": 932,
+        "Hash": "9d24f6b25516c7711e1b5ea1a5037269"
+    },
+    {
+        "Path": "System/Shader/FilterBlit.vso",
+        "Size": 172,
+        "Hash": "c5e538b12a247bc74e124fec7250fa31"
+    },
+    {
+        "Path": "System/Shader/Grass1.vsh",
+        "Size": 1518,
+        "Hash": "fbc8b707bc12c0788ac2c913e12a30c4"
+    },
+    {
+        "Path": "System/Shader/grass1.vso",
+        "Size": 220,
+        "Hash": "ef6399568328fcf0082d4f613ac51c23"
+    },
+    {
+        "Path": "System/Shader/init.r3o",
+        "Size": 1424,
+        "Hash": "f25f071bf7ffaf614107e7937623c0e6"
+    },
+    {
+        "Path": "System/Shader/LitGrass1.vsh",
+        "Size": 1942,
+        "Hash": "1e9cd573fcd00b05ec91c30591cb5c69"
+    },
+    {
+        "Path": "System/Shader/LitGrass1.vso",
+        "Size": 300,
+        "Hash": "3c002a5194451ded14a94d824cdefcf3"
+    },
+    {
+        "Path": "System/Shader/pFraction.sho",
+        "Size": 1434,
+        "Hash": "ff5edfe7156e9b38b447eb3bcb33f4a7"
+    },
+    {
+        "Path": "System/Shader/pPlazma.sho",
+        "Size": 961,
+        "Hash": "0e5d4d7640293ce2c10e570b9b5e358a"
+    },
+    {
+        "Path": "System/Shader/Reflection.vsh",
+        "Size": 1822,
+        "Hash": "e6cffcbac9cbfe788395c9cc75a7dfe5"
+    },
+    {
+        "Path": "System/Shader/Reflection.vso",
+        "Size": 288,
+        "Hash": "338ac497cfe598472fc880ffd0af4e16"
+    },
+    {
+        "Path": "System/Shader/Scatter.vsh",
+        "Size": 2647,
+        "Hash": "326a2d144439fb8d51a24690bcc43d27"
+    },
+    {
+        "Path": "System/Shader/Scatter.vso",
+        "Size": 612,
+        "Hash": "7d1382f7213a774800653c408658524c"
+    },
+    {
+        "Path": "System/Shader/sh_basic.sho",
+        "Size": 2866,
+        "Hash": "87b3f321a72a1eb3f1cd8f3505ac11f3"
+    },
+    {
+        "Path": "System/Shader/sh_basic_alpha.sho",
+        "Size": 2433,
+        "Hash": "c5fcf343739699990cee1276f5610ccf"
+    },
+    {
+        "Path": "System/Shader/sh_basic_bump.sho",
+        "Size": 2635,
+        "Hash": "2b6d2d30497c8a287157fd2cdffde9a2"
+    },
+    {
+        "Path": "System/Shader/sh_basic_BumpEffect.sho",
+        "Size": 2985,
+        "Hash": "02b1349f9a99c21553b6a72d8cace81c"
+    },
+    {
+        "Path": "System/Shader/sh_basic_DScroll.sho",
+        "Size": 2947,
+        "Hash": "c7b461d887aaf1c4dcddc0560486b9a0"
+    },
+    {
+        "Path": "System/Shader/sh_basic_eff.sho",
+        "Size": 2953,
+        "Hash": "6a844f92ea224c2f46532f333f6abcfc"
+    },
+    {
+        "Path": "System/Shader/sh_basic_EnvScroll.sho",
+        "Size": 3064,
+        "Hash": "bcc5ac65845e3dc84d786911e73cd021"
+    },
+    {
+        "Path": "System/Shader/sh_basic_GradeEffect.sho",
+        "Size": 2180,
+        "Hash": "2dc964966726a7ea6880aef9fb73ee4b"
+    },
+    {
+        "Path": "System/Shader/sh_basic_GradeEnvEffect.sho",
+        "Size": 2640,
+        "Hash": "e4aa7416fee5c9128432c504d29c657a"
+    },
+    {
+        "Path": "System/Shader/sh_basic_Scroll.sho",
+        "Size": 2676,
+        "Hash": "702b9d5db3b774ca491c30a7217e0e65"
+    },
+    {
+        "Path": "System/Shader/sh_normal.sho",
+        "Size": 5076,
+        "Hash": "ef33f838272c0689ac8f5ed62708b4d0"
+    },
+    {
+        "Path": "System/Shader/sh_norm_spec.sho",
+        "Size": 6688,
+        "Hash": "8df8149a78e8f636cdecbb093f136dfb"
+    },
+    {
+        "Path": "System/Shader/sh_Shadow.sho",
+        "Size": 2356,
+        "Hash": "e601f7a5b1c25501deec410e8c970d63"
+    },
+    {
+        "Path": "System/Shader/transition.psh",
+        "Size": 101,
+        "Hash": "34cd9feae4bfdaa6a4d5125f54d5577e"
+    },
+    {
+        "Path": "System/Shader/transition.pso",
+        "Size": 76,
+        "Hash": "a722cbeec6dbf36b34e0fcddf667781d"
+    },
+    {
+        "Path": "System/Shader/transition.vsh",
+        "Size": 108,
+        "Hash": "bb7ef668fe43ae96290b2400471a55bc"
+    },
+    {
+        "Path": "System/Shader/transition.vso",
+        "Size": 84,
+        "Hash": "311d8a5cccda64341c9d159ceaf32cf3"
+    },
+    {
+        "Path": "System/Shader/vFraction.sho",
+        "Size": 1120,
+        "Hash": "9e6d46780623d646482a2469a3d2ffc9"
+    },
+    {
+        "Path": "System/Shader/vPlazma.sho",
+        "Size": 1678,
+        "Hash": "a8f5e47535dc717b4aee364763b6b8d1"
+    }
+]

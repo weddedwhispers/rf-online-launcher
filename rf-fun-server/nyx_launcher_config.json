@@ -7,7 +7,7 @@
     "Nation": 6
   },
   "LauncherSettings": {
-    "ManifestUrl": "https://raw.githubusercontent.com/weddedwhispers/rf-online-launcher/main/rf-fun-server/manifest.json",
+    "ManifestUrl": "https://mdev.my.id/manifest-updates/manifest.json",
     "FilesBaseUrl": "http://mdev.my.id/updates/client",
     "WebsiteUrl": "https://rf-funserver.my.id",
     "DiscordUrl": "https://discord.gg/qFsPTq2Nwr",
